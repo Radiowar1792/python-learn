@@ -1,3 +1,0 @@
-a = input("choisi un number : ")
-b = int(a) + 2
-print(b)
